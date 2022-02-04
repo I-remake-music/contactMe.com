@@ -1,0 +1,35 @@
+body {
+  background-color: #262626;
+}
+.box {
+  width: 800px;
+  padding: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #191919;
+  text-align: center;
+  border-radius: 24px;
+}
+h1 {
+  color: white;
+  transform: translate(0%, 300%);
+  font-size: 25px;
+}
+img.discord{
+    width: 300px;
+    transform: translate(50%, 90%);
+}
+img.insta{
+    width: 120px;
+    transform: translate(145%, 109%);
+}
+img.tweeter{
+    width: 140px;
+    transform: translate(199%, 100%);
+}
+img.youtube{
+    width: 500px;
+    transform: translate(40%, 78%);
+}
